@@ -1,0 +1,36 @@
+body {
+    margin: 50px;
+    background-color: rgb(38, 161, 0);
+    font-family: Helvetica, sans-serif;
+}
+.Center {
+    background-color: antiquewhite;
+}
+#description1 {
+    color: rgb(237, 125, 252);
+    text-align: center;
+}
+
+#background1 {
+    background-color: rgb(34, 15, 143);
+    color:rgb(255, 122, 204);
+    font-size: 150%;
+}
+
+#storeMusic {
+    background-color: blueviolet;
+    font-size: 100%;
+    color:rgb(255, 122, 204);
+    border-color: black;
+    border-radius: 80%;
+    border-width: thick;
+}
+
+#displays {
+    display: none;
+    font-size: 80%;
+}
+
+#end {
+    text-align: center;
+}
