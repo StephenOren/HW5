@@ -46,3 +46,6 @@ body {
     background-image: url(pexels-photo-4296349.jpeg);  
 }
 
+#letLive {
+    max-width: 50%;
+}
