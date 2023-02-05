@@ -1,26 +1,27 @@
 body {
     margin: 50px;
     background-color: rgb(38, 161, 0);
-    font-family: Helvetica, sans-serif;
+    font-family: 'Carrois Gothic SC', sans-serif;
+
 }
 .Center {
     background-color: antiquewhite;
 }
 #description1 {
-    color: rgb(237, 125, 252);
+    color:white;
     text-align: center;
 }
 
 #background1 {
-    background-color: rgb(34, 15, 143);
-    color:rgb(255, 122, 204);
+    color:white;
+    background-image: url(pexels-photo-4296349.jpeg); 
     font-size: 150%;
 }
 
 #storeMusic {
-    background-color: blueviolet;
+    background-color: black;
     font-size: 100%;
-    color:rgb(255, 122, 204);
+    color:white;
     border-color: black;
     border-radius: 80%;
     border-width: thick;
@@ -34,3 +35,14 @@ body {
 #end {
     text-align: center;
 }
+#homePageContent {
+    text-align: center;
+    color:white;
+    background-image: url(pexels-photo-4296349.jpeg);
+}
+#displayPageContent {
+    text-align: center;
+    color:white;
+    background-image: url(pexels-photo-4296349.jpeg);  
+}
+
